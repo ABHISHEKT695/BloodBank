@@ -1,0 +1,9 @@
+C:\Users\Sachin Kumar Rai\documents\visual studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.about.resources
+C:\Users\Sachin Kumar Rai\documents\visual studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.BloodBank.resources
+C:\Users\Sachin Kumar Rai\documents\visual studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.Resources.resources
+C:\Users\Sachin Kumar Rai\documents\visual studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.vbproj.GenerateResource.Cache
+C:\Users\ABHISHEK THAKUR\Documents\Visual Studio 2010\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\ABHISHEK THAKUR\Documents\Visual Studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.about.resources
+C:\Users\ABHISHEK THAKUR\Documents\Visual Studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.BloodBank.resources
+C:\Users\ABHISHEK THAKUR\Documents\Visual Studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.Resources.resources
+C:\Users\ABHISHEK THAKUR\Documents\Visual Studio 2010\Projects\BloodBank\BloodBank\obj\x86\Debug\BloodBank.vbproj.GenerateResource.Cache
